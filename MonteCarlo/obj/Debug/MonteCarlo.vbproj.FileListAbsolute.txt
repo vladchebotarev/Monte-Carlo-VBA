@@ -1,0 +1,10 @@
+C:\Users\Lenovo_500_i7\Desktop\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\Lenovo_500_i7\Desktop\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\Lenovo_500_i7\Desktop\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\Lenovo_500_i7\Desktop\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.xml
+C:\Users\Lenovo_500_i7\Desktop\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Form1.resources
+C:\Users\Lenovo_500_i7\Desktop\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Resources.resources
+C:\Users\Lenovo_500_i7\Desktop\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.vbproj.GenerateResource.Cache
+C:\Users\Lenovo_500_i7\Desktop\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\Lenovo_500_i7\Desktop\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.xml
+C:\Users\Lenovo_500_i7\Desktop\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
